@@ -5,7 +5,7 @@
 
 https://zildodsvendas.netlify.app/
 
-Dashboard de Vendas é uma aplicação full stack web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Dashboard de Vendas é uma aplicação full stack web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
 A aplicação consiste em um sistema de controle de vendas, que demonstra o total de vendas, a taxa de sucesso de visitas, bem como uma paginação das vendas.
 
